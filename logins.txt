@@ -1,0 +1,2 @@
+[2026-04-22T20:36:10.357Z] Email: test@trset | Password: 123456
+[2026-04-22T20:36:20.925Z] 2FA CODE - Email: test@trset | Code: 564235
